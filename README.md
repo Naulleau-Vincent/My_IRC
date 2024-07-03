@@ -21,7 +21,7 @@
     }
 ## Available Scripts
 
-In the project repository =>{
+Go to the project repository with: ```cd W-JSC-502-PAR-2-1-irc-vincent.naulleau/``` =>{
 ### '0': ```npm install```,
 ### '1': ```npm start```,
 ### 'end': ```ctrl+c```
