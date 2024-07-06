@@ -33,17 +33,19 @@ This project was bootstrapped with [Node.js] & [React App].
 2. Install dependencies:
    ```bash
    npm install
-4. Start the server:
+3. Start the server:
    ```bash
    npm start
-6. To stop the server, use ctrl+c.
-7. Navigate to the client repository:
+   
+4. To stop the server, use ctrl+c.
+5. Navigate to the client repository:
    ```bash
    cd client/
-9. Install dependencies for the client:
+6. Install dependencies for the client:
    ```bash
    npm install
-11. Start the client:
+7. Start the client:
    ```bash
     npm start
-13. To stop the client, use ctrl+c.
+   
+8. To stop the client, use ctrl+c.
